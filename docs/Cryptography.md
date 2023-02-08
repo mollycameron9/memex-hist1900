@@ -29,4 +29,4 @@ projects:[[]]
 
 ### Links
 [[Secret Writing and Coding]]
-[[Mediums and Messages]]
+ [[Mediums and Messages]]
