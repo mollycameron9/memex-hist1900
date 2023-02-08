@@ -1,8 +1,8 @@
+**"Everybody wants to play in the Stream, but no one wants to build the Garden"**
+
 @mikecaulfieldGardenStreamTechnopastoral2015
 
 @TikTokBrainAffecting
-
-"Everybody wants to play in the Stream, but no one wants to build the Garden"
 
 - people love their personal stream, especially on social media sites
 	
