@@ -1,6 +1,6 @@
 
 
-![[canvas-memex1.png]]
+![canvas-memex1.png]
 
 Legend:
 
