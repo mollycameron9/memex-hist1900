@@ -1,4 +1,4 @@
-![canvas-memex1](../canvas-memex1.png)
+![canvas-memex1.png]
 
 Legend:
 
