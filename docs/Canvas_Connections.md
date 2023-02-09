@@ -1,6 +1,4 @@
-
-
-![canvas-memex1.png]
+![canvas-memex1](../assets/mkdoc-template.png)
 
 Legend:
 
