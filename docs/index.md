@@ -9,3 +9,8 @@ Click here to go to Part 2:
 Click here for canvases:
 [[part_1_canvas]]
 [[part_2_canvas]]
+
+
+![[canvas-memex1.png]]
+
+![[canvas2.png]]
