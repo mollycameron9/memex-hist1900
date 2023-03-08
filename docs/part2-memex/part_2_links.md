@@ -22,4 +22,6 @@
 [[Telegraph_network]]
 [[telephone_networks]]
 [[Archaeology (Theoretical Framework for Course)]]
+[[telephone]]
+[[telephone_invention_dates]]
 
