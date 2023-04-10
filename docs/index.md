@@ -6,11 +6,18 @@ Click here to go to Part 1:
 Click here to go to Part 2:
 [[part_2_links]]
 
+Click here to go to Part 3:
+[[part_3_links]]
+
 Click here for canvases:
 [[part_1_canvas]]
 [[part_2_canvas]]
+[[part_3_canvas]]
+
+
 
 
 ![[canvas-memex1.png]]
 
 ![[canvas2.png]]
+![[canvas-3.png]]

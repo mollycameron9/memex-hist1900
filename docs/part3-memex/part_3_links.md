@@ -1,0 +1,42 @@
+*Source Notes*
+[[@AnatomyAISystem]]
+[[@weingartRouteTextMessage2019]]
+[[@publisher11EvolutionInternet2016]]
+[[@DialupModemBBS]]
+[[@IPAvianCarriers2023]]
+[[highway_413]]
+
+*Atomic/Idea Notes*
+[[90s_technology]]
+[[inconvenient_convenience]]
+[[grassroots_culture]]
+[[modem_world]]
+[[AI_environment]]
+[[AI_exploitation]]
+[[everything_is_a_network]]
+
+*Class Notes*
+[[early_networks]]
+[[early_internet]]
+[[70s&80s_culture]]
+[[personal_computers]]
+[[the_90s]]
+[[browser_wars]]
+[[section_230]]
+[[hypertext_&_web]]
+[[viruses]]
+[[web_invention_dates]]
+[[Mediums-and-Messages]]
+[[more_90s_kindof]]
+[[bezos_you_suck]]
+[[internet_competences]]
+[[Telegraph_network]]
+[[us_internet_context]]
+[[uk_internet_context]]
+[[hawaiian_context]]
+[[french_context]]
+[[space_communications]]
+
+*Miscellaneous*
+[[network_analysis]]
+[[stochastic_parrot]]
