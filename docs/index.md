@@ -14,6 +14,10 @@ Click here for canvases:
 [[part_2_canvas]]
 [[part_3_canvas]]
 
+Click here for the final journey:
+[[0_final_journey_1]]
+[[0_final_journey_2]]
+
 
 
 
